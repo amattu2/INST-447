@@ -31,9 +31,9 @@ This is a repository to demonstrate coursework for the UMD INST-447 Data Sources
 |Assignment 2|100%|
 |Lab 6|100%|
 |Lab 7|90%|
-|Lab 8||
-|Assignment 3||
-|Lab 9||
+|Lab 8|100%|
+|Assignment 3|100%|
+|Lab 9|100%|
 |Lab 10||
 |Assignment 4||
 
