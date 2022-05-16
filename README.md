@@ -34,8 +34,8 @@ This is a repository to demonstrate coursework for the UMD INST-447 Data Sources
 |Lab 8|100%|
 |Assignment 3|100%|
 |Lab 9|100%|
-|Lab 10||
-|Assignment 4||
+|Lab 10|100%|
+|Assignment 4|95%|Protein vs. Energy needed protein on the X-axis|
 
 # Books, Languages, & Programs
 
